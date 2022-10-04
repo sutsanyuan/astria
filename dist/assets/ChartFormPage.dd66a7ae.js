@@ -1,0 +1,1 @@
+import{_ as s,$ as t,r as c,o as a,c as r,p as e,q as _}from"./index.210d9260.js";const n={components:{chartForm:t}},d={class:"BG"},p={class:"container my-5"},m={class:"row"};function i(l,h,v,f,u,F){const o=c("chartForm");return a(),r("div",d,[e("div",p,[e("div",m,[_(o)])])])}const x=s(n,[["render",i],["__scopeId","data-v-7c6133ee"]]);export{x as default};
